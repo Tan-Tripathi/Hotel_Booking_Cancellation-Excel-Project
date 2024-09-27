@@ -1,7 +1,9 @@
 # Hotel Booking Cancellations Analysis
+![hotel](https://github.com/user-attachments/assets/77ca463e-c8da-4c02-935e-f872d8843aa2)
 
 #### **Project Overview:**
-This project done using Excel analyzes hotel booking data, focusing on cancellations, guest types, room preferences, and seasonal booking patterns. The dataset is obtained from Kaggle (https://www.kaggle.com/datasets/mojtaba142/hotel-booking). The data was collected from 2015 to 2017, covering both city hotels and resort hotels. The goal is to understand booking behaviors, identify trends, and propose recommendations to improve booking processes and reduce cancellations.
+Hotels often struggle with a significant number of booking cancellations, which can affect revenue, room allocation efficiency, and guest satisfaction. This project done using Excel analyzes hotel booking data, focusing on cancellations, guest types, room preferences, and seasonal booking patterns. The dataset is obtained from Kaggle (https://www.kaggle.com/datasets/mojtaba142/hotel-booking). The data was collected from 2015 to 2017, covering both city hotels and resort hotels. 
+The goal is to understand booking behaviors, identify trends, and propose recommendations to improve booking processes and reduce cancellations.
 
 #### **Dataset:**
 - **Total Bookings**: 119,390
