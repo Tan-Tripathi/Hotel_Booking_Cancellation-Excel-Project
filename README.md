@@ -11,7 +11,8 @@ The goal is to understand booking behaviors, identify trends, and propose recomm
 - **Booking Types**: City Hotel (79,330 bookings), Resort Hotel (40,060 bookings)
 - **Countries Represented**: The dataset covers a global range of countries.
 
-#### **Tasks completed:** Data ingestion, data preparation, pivot table creation, visualization and Dashboarding.
+#### **Tasks completed:** 
+Data ingestion, data preparation, pivot table creation, visualization and Dashboarding.
 
 #### **Key Insights:**
 
