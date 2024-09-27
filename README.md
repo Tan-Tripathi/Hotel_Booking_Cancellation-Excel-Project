@@ -45,7 +45,8 @@ The goal is to understand booking behaviors, identify trends, and propose recomm
    - During high-booking months (July-August), offering early booking discounts with stricter cancellation terms may help manage cancellation rates.
    - Low-demand periods (January, November and December) can benefit from promotional offers and last-minute deals to boost occupancy.
 
-#### **Visual Summary (Dashboard)**: (Excel file link: https://github.com/Tan-Tripathi/Hotel_Booking_Cancellation-Excel-Project/blob/main/Hotel_bookings_excel%20project.xlsx) 
+**Excel file link:** https://github.com/Tan-Tripathi/Hotel_Booking_Cancellation-Excel-Project/blob/main/Hotel_bookings_excel%20project.xlsx
+#### **Visual Summary (Dashboard)**: 
 ![image](https://github.com/user-attachments/assets/4d9f16ba-7751-458d-931d-15a5d3bbed8c)
 
 The dashboard provides visual insights into hotel bookings and cancellations, including:
