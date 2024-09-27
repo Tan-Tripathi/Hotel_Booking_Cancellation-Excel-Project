@@ -14,6 +14,12 @@ The goal is to understand booking behaviors, identify trends, and propose recomm
 #### **Tasks completed:** 
 Data ingestion, data preparation, pivot table creation, visualization and Dashboarding.
 
+**Excel file link:** [Click here](https://github.com/Tan-Tripathi/Hotel_Booking_Cancellation-Excel-Project/blob/main/Hotel_bookings_excel%20project.xlsx)
+#### **Visual Summary (Dashboard)**: 
+![image](https://github.com/user-attachments/assets/4d9f16ba-7751-458d-931d-15a5d3bbed8c)
+
+This analysis helps the hotels optimize their booking strategies and reduce cancellations by better understanding guest behavior, room preferences, and seasonal trends.
+
 #### **Key Insights:**
 
 1. **Cancellation Rates**:
@@ -47,17 +53,6 @@ Data ingestion, data preparation, pivot table creation, visualization and Dashbo
 3. **Seasonal Promotions**:
    - During high-booking months (July-August), offering early booking discounts with stricter cancellation terms may help manage cancellation rates.
    - Low-demand periods (January, November and December) can benefit from promotional offers and last-minute deals to boost occupancy.
-
-**Excel file link:** [Click here](https://github.com/Tan-Tripathi/Hotel_Booking_Cancellation-Excel-Project/blob/main/Hotel_bookings_excel%20project.xlsx)
-#### **Visual Summary (Dashboard)**: 
-![image](https://github.com/user-attachments/assets/4d9f16ba-7751-458d-931d-15a5d3bbed8c)
-
-The dashboard provides visual insights into hotel bookings and cancellations, including:
-- **Bookings by guest type**: Couples have the most cancellations, followed by family and single travelers.
-- **Cancellations by room type**: Most cancellations are for desired rooms.
-- **Booking trends by month**: Bookings peak during summer months, while cancellations remain high throughout.
-
-This analysis helps the hotels optimize their booking strategies and reduce cancellations by better understanding guest behavior, room preferences, and seasonal trends.
 
 ---
 
