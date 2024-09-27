@@ -1,4 +1,4 @@
-### Hotel Booking Cancellations Analysis
+## Hotel Booking Cancellations Analysis
 
 #### **Project Overview:**
 This project analyzes hotel booking data, focusing on cancellations, guest types, room preferences, and seasonal booking patterns. The data was collected from 2015 to 2017, covering both city hotels and resort hotels. The goal is to understand booking behaviors, identify trends, and propose recommendations to improve booking processes and reduce cancellations.
@@ -14,8 +14,8 @@ This project analyzes hotel booking data, focusing on cancellations, guest types
 1. **Cancellation Rates**:
    - **Overall Cancellation Rate**: Approximately 37%.
    - **City Hotel vs. Resort Hotel**: City Hotels have fewer total bookings but a slightly higher cancellation rate.
-     - City Hotel cancellations: 11,122
-     - Resort Hotel cancellations: 33,102
+     - City Hotel cancellations: 33,102(75% of total cancellation)
+     - Resort Hotel cancellations: 11,122(25% of total cancellation)
 
 2. **Guest Types**:
    - Couples form the majority of bookings (81,560 total bookings), but also account for a significant number of cancellations (32,424).
@@ -28,7 +28,7 @@ This project analyzes hotel booking data, focusing on cancellations, guest types
 
 4. **Monthly Booking Trends**:
    - **Peak months**: August (13,877 total bookings), July (12,661), and May (11,791).
-   - **Low months**: January and December exhibit the lowest booking and cancellation rates.
+   - **Low months**: January, November and December exhibit the lowest booking and cancellation rates.
    - Cancellations remain consistently high in popular months, especially during the summer travel season.
 
 #### **Recommendations**:
@@ -41,15 +41,17 @@ This project analyzes hotel booking data, focusing on cancellations, guest types
    
 3. **Seasonal Promotions**:
    - During high-booking months (July-August), offering early booking discounts with stricter cancellation terms may help manage cancellation rates.
-   - Low-demand periods (January-December) can benefit from promotional offers and last-minute deals to boost occupancy.
+   - Low-demand periods (January, November and December) can benefit from promotional offers and last-minute deals to boost occupancy.
 
 #### **Visual Summary (Dashboard)**:
+![image](https://github.com/user-attachments/assets/4d9f16ba-7751-458d-931d-15a5d3bbed8c)
+
 The dashboard provides visual insights into hotel bookings and cancellations, including:
 - **Bookings by guest type**: Couples have the most cancellations, followed by family and single travelers.
 - **Cancellations by room type**: Most cancellations are for desired rooms.
 - **Booking trends by month**: Bookings peak during summer months, while cancellations remain high throughout.
 
-This analysis helps hotels optimize their booking strategies and reduce cancellations by better understanding guest behavior, room preferences, and seasonal trends.
+This analysis helps the hotels optimize their booking strategies and reduce cancellations by better understanding guest behavior, room preferences, and seasonal trends.
 
 ---
 
