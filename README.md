@@ -1,26 +1,26 @@
 # Hotel Booking Cancellations Analysis
 
-#### **Project Overview:**
+### **Project Overview:**
 Hotels often struggle with a significant number of booking cancellations, which can affect revenue, room allocation efficiency, and guest satisfaction. This project done using **Excel** analyzes hotel booking data, focusing on cancellations, guest types, room preferences, and seasonal booking patterns. The dataset is obtained from Kaggle [Hotel-Booking dataset](https://www.kaggle.com/datasets/mojtaba142/hotel-booking). The data was collected from 2015 to 2017, covering both city hotels and resort hotels. 
 
 The goal is to understand booking behaviors, identify trends, and propose recommendations to improve booking processes and reduce cancellations.
 
-#### **Dataset:**
+### **Dataset:**
 - **Total Bookings**: 119,390
 - **Total Cancellations**: 44,224
 - **Booking Types**: City Hotel (79,330 bookings), Resort Hotel (40,060 bookings)
 - **Countries Represented**: The dataset covers a global range of countries.
 
-#### **Tasks completed:** 
+### **Tasks completed:** 
 Data ingestion, data preparation, pivot table creation, visualization and Dashboarding.
 
 **Excel file link:** [Click here](https://github.com/Tan-Tripathi/Hotel_Booking_Cancellation-Excel-Project/blob/main/Hotel_bookings_excel%20project.xlsx)
-#### **Visual Summary (Dashboard)**: 
+### **Visual Summary (Dashboard)**: 
 ![image](https://github.com/user-attachments/assets/4d9f16ba-7751-458d-931d-15a5d3bbed8c)
 
 This analysis helps the hotels optimize their booking strategies and reduce cancellations by better understanding guest behavior, room preferences, and seasonal trends.
 
-#### **Key Insights:**
+### **Key Insights:**
 
 1. **Cancellation Rates**:
    - **Overall Cancellation Rate**: Approximately 37%.
@@ -42,7 +42,7 @@ This analysis helps the hotels optimize their booking strategies and reduce canc
    - **Low months**: January, November and December exhibit the lowest booking and cancellation rates.
    - Cancellations remain consistently high in popular months, especially during the summer travel season.
 
-#### **Recommendations**:
+### **Recommendations**:
 
 1. **Targeted Retention for Couples**:
    Since couples form the largest group of both bookings and cancellations, creating tailored retention strategies—such as flexible cancellation policies or exclusive offers—could help reduce the cancellation rate in this segment.
