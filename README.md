@@ -14,8 +14,7 @@ The goal is to understand booking behaviors, identify trends, and propose recomm
 ### **Tasks completed:** 
 Data ingestion, data preparation, pivot table creation, visualization and Dashboarding.
 
-### **Excel file link:** 
-[Click here](https://github.com/Tan-Tripathi/Hotel_Booking_Cancellation-Excel-Project/blob/main/Hotel_bookings_excel%20project.xlsx)
+### **Excel file link:** [Click here](https://github.com/Tan-Tripathi/Hotel_Booking_Cancellation-Excel-Project/blob/main/Hotel_bookings_excel%20project.xlsx)
 ### **Visual Summary (Dashboard)**: 
 ![image](https://github.com/user-attachments/assets/4d9f16ba-7751-458d-931d-15a5d3bbed8c)
 
