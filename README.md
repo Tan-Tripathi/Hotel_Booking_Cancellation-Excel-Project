@@ -57,3 +57,6 @@ This analysis helps the hotels optimize their booking strategies and reduce canc
 ---
 
 This summary provides a clear overview of the dataset, key insights, and actionable recommendations to improve booking and cancellation management for hotels.
+
+---
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanmay-tripathi-2k/)
